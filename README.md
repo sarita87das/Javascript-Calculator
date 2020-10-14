@@ -1,2 +1,10 @@
 # Javascript-Calculator
-calculator using vanilla javascript
+Calculator using vanilla javascript
+
+# Tools/Technologies Uses
+HTML
+CSS
+JavaScript
+
+# ![DEMO](JSCALCULATOR.GIF)
+
