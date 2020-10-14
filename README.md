@@ -6,5 +6,5 @@ HTML
 CSS
 JavaScript
 
-# ![DEMO](JSCALCULATOR.GIF)
+# ![demo](JSCALCULATOR.GIF)
 
